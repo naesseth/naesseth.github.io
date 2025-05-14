@@ -11,5 +11,5 @@ personal_page: https://bmlmcmc.github.io/bahrulin/
 scholar_userid: inFKBT4AAAAJ
 github_username: bmlmcmc
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
