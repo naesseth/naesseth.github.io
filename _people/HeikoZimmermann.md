@@ -11,5 +11,5 @@ personal_page: https://heikozimmermann.com/
 scholar_userid: 6etmkQYAAAAJ
 github_username: zmheiko
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
