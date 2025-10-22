@@ -11,5 +11,5 @@ personal_page: https://fdenoodt.github.io/
 scholar_userid: A4o7IsMAAAAJ
 github_username: fdenoodt
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
