@@ -11,5 +11,5 @@ personal_page: https://falkaer.io/
 scholar_userid: z4eOPeUAAAAJ
 github_username: falkaer
 twitter_username:
-category: PhD Students
+category: Alumni
 ---

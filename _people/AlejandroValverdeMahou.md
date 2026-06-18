@@ -11,5 +11,5 @@ personal_page: https://pheithar.github.io/
 scholar_userid: wm9wdSkAAAAJ
 github_username: pheithar
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
