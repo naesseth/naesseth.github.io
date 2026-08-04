@@ -6,7 +6,7 @@ short_name: Ziwei Luo
 email: ziwei.luo@it.uu.se
 role: Visiting PhD student
 one_liner: Probabilistic deep learning.
-img: assets/img/ZiweiLuo.png
+img: assets/img/ZiweiLuo.jpg
 personal_page: https://algolzw.github.io/
 scholar_userid: 3WQTKocAAAAJ
 github_username: Algolzw
