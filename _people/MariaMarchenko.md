@@ -11,5 +11,5 @@ personal_page:
 scholar_userid: sDuBbXQAAAAJ
 github_username:
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
