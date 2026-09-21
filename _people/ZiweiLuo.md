@@ -4,7 +4,7 @@ first_name: Ziwei
 last_name: Luo
 short_name: Ziwei Luo
 email: ziwei.luo@it.uu.se
-role: Visiting PhD student
+role: PhD student (co-supervised by Thomas Schön)
 one_liner: Probabilistic deep learning.
 img: assets/img/ZiweiLuo.jpg
 personal_page: https://algolzw.github.io/
