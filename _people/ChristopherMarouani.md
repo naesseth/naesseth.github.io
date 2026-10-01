@@ -11,5 +11,5 @@ personal_page: https://www.linkedin.com/in/christopher-marouani-852922245/
 scholar_userid: 
 github_username: chris-mrn
 twitter_username:
-category: PhD Students
+category: Alumni
 ---
