@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor (tenured) of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/), lab manager of the [UvA-Bosch Delta Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), and an [ELLIS](https://ellis.eu/) member. My research has been recognized with several international awards, including Best Paper Awards (AISTATS, AABI) and the Savage Award from the International Society for Bayesian Analysis.
+I am an Assistant Professor (tenured) of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/), lab manager of the [UvA-Bosch Delta Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), and an [ELLIS Scholar](https://ellis.eu/members/fellows). My research has been recognized with several international awards, including Best Paper Awards (AISTATS, AABI) and the Savage Award from the International Society for Bayesian Analysis.
 
 My work lies at the intersection of generative modeling and approximate inference. I develop principled methods for diffusion and flow-based models, generative flow networks, and scalable variational and Monte Carlo inference, with a focus on uncertainty quantification and hypothesis testing. I am particularly interested in applications to the natural sciences, engineering, health, and scientific machine learning more broadly. My research has led to publications at top-tier venues such as NeurIPS, ICML, AISTATS, and UAI, and I regularly give invited and keynote talks on generative modeling and probabilistic inference.
 
