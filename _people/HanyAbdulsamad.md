@@ -11,5 +11,5 @@ personal_page:
 scholar_userid: 9LrmZZwAAAAJ
 github_username: hanyas
 twitter_username:
-category: Alumni
+category: PhD Students
 ---
