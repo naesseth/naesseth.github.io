@@ -11,5 +11,5 @@ personal_page: https://algolzw.github.io/
 scholar_userid: 3WQTKocAAAAJ
 github_username: Algolzw
 twitter_username: ZiweiRo
-category: PhD Students
+category: Alumni
 ---
