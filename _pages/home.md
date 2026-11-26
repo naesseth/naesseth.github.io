@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 announcement: >-
   **From Amsterdam to Singapore.** The [Elemental AI Lab](https://elemental-ai-lab.github.io/) moves from the
   University of Amsterdam to the [College of Computing and Data Science](https://www.ntu.edu.sg/computing) at
-  NTU Singapore in January 2027. We are recruiting multiple PhD students to start in August 2027.
+  NTU Singapore in January 2027. We are recruiting multiple PhD students to start in August 2027 and welcome postdocs applying for fellowships.
 announcement_link:
-  text: Explore PhD opportunities
+  text: Explore PhD and postdoc opportunities
   url: https://elemental-ai-lab.github.io/join/
 ---
 
