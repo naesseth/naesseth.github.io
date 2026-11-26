@@ -11,6 +11,15 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
+        {% if page.announcement -%}
+        <aside class="announcement" aria-label="Announcement">
+          {{ page.announcement | markdownify }}
+          {%- if page.announcement_link %}
+          <p class="announcement-link"><a href="{{ page.announcement_link.url }}">{{ page.announcement_link.text }}&nbsp;<span aria-hidden="true">&rarr;</span></a></p>
+          {%- endif %}
+        </aside>
+        {%- endif %}
+
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">

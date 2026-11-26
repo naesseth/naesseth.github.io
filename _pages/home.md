@@ -16,9 +16,18 @@ profile:
 news: false  # news section hidden; the items stay in _news
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+# Announcement box shown above the bio. Delete these lines to remove it.
+announcement: >-
+  **From Amsterdam to Singapore.** The [Elemental AI Lab](https://elemental-ai-lab.github.io/) moves from the
+  University of Amsterdam to the [College of Computing and Data Science](https://www.ntu.edu.sg/computing) at
+  NTU Singapore in January 2027. We are recruiting multiple PhD students to start in August 2027.
+announcement_link:
+  text: Explore PhD opportunities
+  url: https://elemental-ai-lab.github.io/join/
 ---
 
-I lead the [**Elemental AI Lab**](https://elemental-ai-lab.github.io/), which develops fundamental methods behind generative AI. In January 2027, the lab moves from the University of Amsterdam to the [College of Computing and Data Science](https://www.ntu.edu.sg/computing) at NTU Singapore, and we are recruiting multiple PhD students to start in August 2027 ([how to apply](https://elemental-ai-lab.github.io/join/)).
+I lead the [**Elemental AI Lab**](https://elemental-ai-lab.github.io/), which develops fundamental methods behind generative AI.
 
 I am currently an Assistant Professor (tenured) of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/), lab manager of the [UvA-Bosch Delta Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), and an [ELLIS Scholar](https://ellis.eu/members/fellows). My research has been recognized with several international awards, including Best Paper Awards (AISTATS, AABI) and the Savage Award from the International Society for Bayesian Analysis.
 

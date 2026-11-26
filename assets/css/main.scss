@@ -13,3 +13,16 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Announcement box on the home page (set `announcement` in _pages/home.md)
+.announcement {
+  margin: 0 0 2rem;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0 4px 4px 0;
+  background-color: var(--global-code-bg-color);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  p { margin: 0; }
+  .announcement-link { margin-top: .5rem; font-weight: 500; }
+}
