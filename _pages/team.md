@@ -3,7 +3,8 @@ layout: page
 title: Team
 permalink: /team/
 description: 
-nav: true
+nav: false
+published: false  # hidden; set to true (and nav: true) to bring the page back
 display_categories: [Postdocs, PhD Students, Alumni]
 ---
 

@@ -13,14 +13,15 @@ profile:
 #    <p>Lab42</p>
 #    <p>Amsterdam, Netherlands</p>
 
-news: true  # includes a list of news items
+news: false  # news section hidden; the items stay in _news
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor (tenured) of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/), lab manager of the [UvA-Bosch Delta Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), and an [ELLIS Scholar](https://ellis.eu/members/fellows). My research has been recognized with several international awards, including Best Paper Awards (AISTATS, AABI) and the Savage Award from the International Society for Bayesian Analysis.
+I lead the [Elemental AI Lab](https://elemental-ai-lab.github.io/), which develops fundamental methods behind generative AI. In January 2027, the lab moves from the University of Amsterdam to the [College of Computing and Data Science](https://www.ntu.edu.sg/computing) at NTU Singapore, and we are recruiting multiple PhD students to start in August 2027 ([how to apply](https://elemental-ai-lab.github.io/join/)).
+
+I am currently an Assistant Professor (tenured) of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/), lab manager of the [UvA-Bosch Delta Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), and an [ELLIS Scholar](https://ellis.eu/members/fellows). My research has been recognized with several international awards, including Best Paper Awards (AISTATS, AABI) and the Savage Award from the International Society for Bayesian Analysis.
 
 My work lies at the intersection of generative modeling and approximate inference. I develop principled methods for diffusion and flow-based models, generative flow networks, and scalable variational and Monte Carlo inference, with a focus on uncertainty quantification and hypothesis testing. I am particularly interested in applications to the natural sciences, engineering, health, and scientific machine learning more broadly. My research has led to publications at top-tier venues such as NeurIPS, ICML, AISTATS, and UAI, and I regularly give invited and keynote talks on generative modeling and probabilistic inference.
 
 Previously, I was a postdoctoral research scientist with David Blei at Columbia University and a research intern at Microsoft Research. I completed my PhD at Linköping University under the supervision of Fredrik Lindsten and Thomas Schön, and was a Fulbright Visiting Student Researcher during my doctoral studies.
-

@@ -3,7 +3,8 @@ layout: page
 title: Contact
 permalink: /contact/
 description: 
-nav: true
+nav: false
+published: false  # hidden; set to true (and nav: true) to bring the page back
 ---
 
 Lab42, University of Amsterdam <br>
